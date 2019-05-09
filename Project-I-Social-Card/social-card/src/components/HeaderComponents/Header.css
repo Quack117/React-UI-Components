@@ -1,1 +1,38 @@
 /* All styles for your header Components live here */
+.headerContainer {
+    width: 600px;
+    /* border: solid black 1px; */
+    display: flex;
+    margin:auto;
+
+}
+
+.headerImage {
+    /* margin-bottom:50px; */
+    margin-top:30px;
+    margin-left:10px;
+    margin-right:10px;
+    width:60px;
+    height:60px;
+}
+
+.lambdaSchool {
+    font-weight:bolder;
+    font-size: .8rem;
+    
+}
+
+.topContainer {
+    display:flex;
+    align-items:center;
+    margin-top: 20px;
+
+}
+.timeStamp {
+    margin-left: 10px;
+    color: grey;
+    font-size: .8rem;
+}
+.mainParagraph {
+    font-size: .8rem;
+}
